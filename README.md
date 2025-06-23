@@ -10,3 +10,5 @@
 Полегшує фокус користувача на змісті, а не на кольорах.
 Добре поєднується з принципами UX/UI, де важлива ієрархія та читабельність.
 https://www.figma.com/design/XDZM8D4PYfluRbgpUHHL5x/Untitled?node-id=0-1&t=uHWF5lNXNqvBWkBQ-1
+![Скриншот 23-06-2025 210128](https://github.com/user-attachments/assets/841c685e-3b39-46c9-b9c2-0c0ac310e73a)
+
